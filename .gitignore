@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+*.tgz
+*.zip
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_ed25519*
+id_rsa*
+.pi/
+.DS_Store
