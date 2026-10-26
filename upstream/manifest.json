@@ -1,0 +1,42 @@
+{
+  "repository": "https://github.com/openai/codex",
+  "commit": "970111f6cb62cc02fe36a82ea7d71b37a2889c97",
+  "files": [
+    {
+      "path": "LICENSE",
+      "sha256": "d17f227e4df5da1600391338865ce0f3055211760a36688f816941d58232d8dc"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "9d71575ecfd9a843fc1677b0efb08053c6ba9fd686a0de1a6f5382fd3c220915"
+    },
+    {
+      "path": "codex-rs/collaboration-mode-templates/templates/plan.md",
+      "sha256": "d6d46c2d460a9d91ada2167605a8dfc56efde6b2ab61e101444c736c6fd6960a"
+    },
+    {
+      "path": "codex-rs/prompts/templates/review/rubric.md",
+      "sha256": "ec60e7f36a1d1c2679ce095c0205ecc56f7dd8fb57707a13ef362072390f219f"
+    },
+    {
+      "path": "codex-rs/prompts/templates/compact/prompt.md",
+      "sha256": "ab0c334d4faca17e3afbb9b16967c1b2fdcc7242a9a0880af57949fa236d6d07"
+    },
+    {
+      "path": "codex-rs/models-manager/models.json",
+      "sha256": "943ca7fe1d19ed019054158303f0dbbd80b3bef43b3aa425a71aa7cb3fb52c2b"
+    },
+    {
+      "path": "codex-rs/models-manager/src/collaboration_mode_presets.rs",
+      "sha256": "8c19c20ab5c306be375dbe124856b1731ba1e162321b182b63ffaa40166a922e"
+    },
+    {
+      "path": "codex-rs/core/src/tools/handlers/request_user_input_spec.rs",
+      "sha256": "86ef5b005211ea6cc14c5a99821357a4484cccbb4756c911bbeba3913315d16f"
+    },
+    {
+      "path": "codex-rs/core/src/tools/handlers/request_user_input.rs",
+      "sha256": "f4975978234d0ff7c143e6a5616d5523b9bddac044a6e39f8a0a32dcf0f56a38"
+    }
+  ]
+}

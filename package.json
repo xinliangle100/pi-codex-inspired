@@ -1,8 +1,8 @@
 {
   "name": "pi-codex-inspired",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
-  "description": "Optional Pi skills and extensions inspired by traceable Codex harness engineering.",
+  "description": "Source-pinned Codex Plan prompt with explicit minimal Pi adapters; no custom workflow.",
   "type": "module",
   "license": "UNLICENSED",
   "keywords": [
@@ -15,16 +15,14 @@
   },
   "files": [
     "extensions",
-    "skills",
+    "upstream",
     "docs",
-    "README.md"
+    "README.md",
+    "THIRD_PARTY_NOTICES.md"
   ],
   "pi": {
     "extensions": [
       "./extensions/index.ts"
-    ],
-    "skills": [
-      "./skills"
     ]
   },
   "scripts": {
